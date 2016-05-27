@@ -1,0 +1,9 @@
+2015-12-02 17:50:51,981 [7] INFO  DBcomparer.Program [(null)] - ----DB comparer Job Start---
+2015-12-02 17:50:52,199 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-12-02 17:54:11,572 [8] INFO  DBcomparer.Program [(null)] - ----DB comparer Job Start---
+2015-12-02 17:54:11,679 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-12-02 17:54:52,780 [9] INFO  DBcomparer.Program [(null)] - ----DB comparer Job Start---
+2015-12-02 17:54:52,895 [9] INFO  DBComparer.Application [(null)] - There is already an object named 'CompareResult_NZ_Release_2015_12254' in the database.
+2015-12-02 17:54:52,895 [9] INFO  DBcomparer.Program [(null)] - ----DB comparer Job End---
+2015-12-02 17:55:14,770 [8] INFO  DBcomparer.Program [(null)] - ----DB comparer Job Start---
+2015-12-02 17:55:14,872 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info

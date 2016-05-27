@@ -1,0 +1,9 @@
+C:\Users\NCS-LCO\Desktop\RefreshMiddleware\RefreshMiddleware\bin\Debug\RefreshMiddleware.exe.config
+C:\Users\NCS-LCO\Desktop\RefreshMiddleware\RefreshMiddleware\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NCS-LCO\Desktop\RefreshMiddleware\RefreshMiddleware\bin\Debug\RefreshMiddleware.exe
+C:\Users\NCS-LCO\Desktop\RefreshMiddleware\RefreshMiddleware\bin\Debug\RefreshMiddleware.pdb
+C:\Users\NCS-LCO\Desktop\RefreshMiddleware\RefreshMiddleware\bin\Debug\Common.Logging.dll
+C:\Users\NCS-LCO\Desktop\RefreshMiddleware\RefreshMiddleware\bin\Debug\Common.Logging.Log4Net.dll
+C:\Users\NCS-LCO\Desktop\RefreshMiddleware\RefreshMiddleware\bin\Debug\log4net.dll
+C:\Users\NCS-LCO\Desktop\RefreshMiddleware\RefreshMiddleware\obj\Debug\RefreshMiddleware.exe
+C:\Users\NCS-LCO\Desktop\RefreshMiddleware\RefreshMiddleware\obj\Debug\RefreshMiddleware.pdb

@@ -1,0 +1,541 @@
+2015-11-04 16:34:45,787 [10] INFO  DBcomparer.Program [(null)] - ----DB comparer Job Start---
+2015-11-04 16:36:21,838 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 16:58:18,434 [10] INFO  DBcomparer.Program [(null)] - ----DB comparer Job Start---
+2015-11-04 17:03:55,019 [9] INFO  DBcomparer.Program [(null)] - ----DB comparer Job Start---
+2015-11-04 17:04:55,446 [9] INFO  DBcomparer.Program [(null)] - ----DB comparer Job Start---
+2015-11-04 17:04:59,738 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 17:06:08,117 [9] INFO  DBcomparer.Program [(null)] - ----DB comparer Job Start---
+2015-11-04 17:06:15,031 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 17:13:49,240 [9] INFO  DBcomparer.Program [(null)] - ----DB comparer Job Start---
+2015-11-04 17:13:56,557 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 17:22:30,585 [8] INFO  DBcomparer.Program [(null)] - ----DB comparer Job Start---
+2015-11-04 17:22:33,492 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 17:23:33,844 [9] INFO  DBcomparer.Program [(null)] - ----DB comparer Job Start---
+2015-11-04 17:23:35,501 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 17:27:10,963 [9] INFO  DBcomparer.Program [(null)] - ----DB comparer Job Start---
+2015-11-04 17:27:12,885 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:07:45,676 [10] INFO  DBcomparer.Program [(null)] - ----DB comparer Job Start---
+2015-11-04 18:07:47,801 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:07:51,482 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:07:51,607 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:12:02,620 [8] INFO  DBcomparer.Program [(null)] - ----DB comparer Job Start---
+2015-11-04 18:12:41,953 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:12:42,370 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:12:42,449 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:13:23,203 [8] INFO  DBcomparer.Program [(null)] - ----DB comparer Job Start---
+2015-11-04 18:13:41,537 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:13:41,959 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:13:42,037 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:13:42,506 [8] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.CompanyId =b.CompanyId   and  a.IsMain =b.IsMain   table :Address
+2015-11-04 18:13:42,506 [8] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.CompanyId =b.CompanyId   and  a.IsMain =b.IsMain   table :Address
+2015-11-04 18:13:42,568 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:13:46,184 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:13:46,356 [8] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.Description =b.Description   table :Atc
+2015-11-04 18:13:46,434 [8] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.Description =b.Description   table :Atc
+2015-11-04 18:13:46,450 [8] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.FileName =b.FileName   and  a.AttachmentTypeCT =b.AttachmentTypeCT   table :Attachment
+2015-11-04 18:13:46,466 [8] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.FileName =b.FileName   and  a.AttachmentTypeCT =b.AttachmentTypeCT   table :Attachment
+2015-11-04 18:13:46,653 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:00,927 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:01,005 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:01,099 [8] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.Description =b.Description   table :Classification
+2015-11-04 18:14:01,114 [8] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.Description =b.Description   table :Classification
+2015-11-04 18:14:01,114 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:01,224 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:01,255 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:01,302 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:01,614 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:02,114 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:02,318 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:02,333 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:02,521 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:02,677 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:02,880 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:03,271 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:03,318 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:03,349 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:03,396 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:03,458 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:03,740 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:03,927 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:06,293 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:13,638 [8] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.IsTrueGeneric =b.IsTrueGeneric   and  a.IsHomonym =b.IsHomonym   and  a.IsSynonym =b.IsSynonym   and  a.Name =b.Name   table :Molecule
+2015-11-04 18:14:13,982 [8] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.IsTrueGeneric =b.IsTrueGeneric   and  a.IsHomonym =b.IsHomonym   and  a.IsSynonym =b.IsSynonym   and  a.Name =b.Name   table :Molecule
+2015-11-04 18:14:14,013 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:14,044 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:14,107 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:14,278 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:23,562 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:24,906 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:24,984 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:25,078 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:25,218 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:26,653 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:26,700 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:26,840 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:28,286 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:28,661 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:29,630 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:35,606 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:35,731 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:35,856 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:35,888 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:35,997 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:37,716 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:37,872 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:38,028 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:38,231 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:38,403 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:38,450 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:38,582 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:38,661 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:38,739 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:40,270 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:40,301 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:40,348 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:40,598 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:41,192 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:41,286 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:14:41,348 [8] INFO  DBcomparer.Program [(null)] - ----DB comparer Job End---
+2015-11-04 18:23:32,807 [9] INFO  DBcomparer.Program [(null)] - ----DB comparer Job Start---
+2015-11-04 18:23:34,496 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:23:34,918 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:23:34,996 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:23:35,402 [9] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.CompanyId =b.CompanyId   and  a.IsMain =b.IsMain   table :Address
+2015-11-04 18:23:35,402 [9] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.CompanyId =b.CompanyId   and  a.IsMain =b.IsMain   table :Address
+2015-11-04 18:23:35,418 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:23:37,574 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:23:37,660 [9] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.Description =b.Description   table :Atc
+2015-11-04 18:23:37,716 [9] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.Description =b.Description   table :Atc
+2015-11-04 18:23:37,732 [9] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.FileName =b.FileName   and  a.AttachmentTypeCT =b.AttachmentTypeCT   table :Attachment
+2015-11-04 18:23:37,748 [9] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.FileName =b.FileName   and  a.AttachmentTypeCT =b.AttachmentTypeCT   table :Attachment
+2015-11-04 18:23:37,810 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:23:51,795 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:23:51,795 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:23:51,827 [9] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.Description =b.Description   table :Classification
+2015-11-04 18:23:51,842 [9] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.Description =b.Description   table :Classification
+2015-11-04 18:23:51,858 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:23:51,920 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:23:51,936 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:23:51,952 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:23:52,123 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:23:52,441 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:23:52,535 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:23:52,566 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:23:52,629 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:23:52,644 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:23:52,691 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:23:52,910 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:23:52,926 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:23:52,926 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:23:52,941 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:23:52,972 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:23:53,160 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:23:53,238 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:23:55,747 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:23:58,229 [9] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.IsTrueGeneric =b.IsTrueGeneric   and  a.IsHomonym =b.IsHomonym   and  a.IsSynonym =b.IsSynonym   and  a.Name =b.Name   table :Molecule
+2015-11-04 18:23:58,573 [9] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.IsTrueGeneric =b.IsTrueGeneric   and  a.IsHomonym =b.IsHomonym   and  a.IsSynonym =b.IsSynonym   and  a.Name =b.Name   table :Molecule
+2015-11-04 18:23:58,573 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:23:58,588 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:23:58,604 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:23:58,713 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:24:07,317 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:24:08,167 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:24:08,183 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:24:08,199 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:24:08,261 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:24:09,386 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:24:09,386 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:24:09,433 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:24:10,433 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:24:10,731 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:24:11,627 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:24:17,181 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:24:17,212 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:24:17,259 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:24:17,274 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:24:17,384 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:24:18,102 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:24:18,181 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:24:18,259 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:24:18,337 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:24:18,415 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:24:18,446 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:24:18,524 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:24:18,540 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:24:18,571 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:24:20,345 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:24:20,360 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:24:20,376 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:24:20,563 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:24:20,990 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:24:21,021 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:43:36,263 [10] INFO  DBcomparer.Program [(null)] - ----DB comparer Job Start---
+2015-11-04 18:43:36,466 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:43:36,795 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:43:36,873 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:43:37,279 [10] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.CompanyId =b.CompanyId   and  a.IsMain =b.IsMain   table :Address
+2015-11-04 18:43:37,279 [10] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.CompanyId =b.CompanyId   and  a.IsMain =b.IsMain   table :Address
+2015-11-04 18:43:37,326 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:43:39,811 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:43:39,890 [10] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.Description =b.Description   table :Atc
+2015-11-04 18:43:39,952 [10] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.Description =b.Description   table :Atc
+2015-11-04 18:43:39,968 [10] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.FileName =b.FileName   and  a.AttachmentTypeCT =b.AttachmentTypeCT   table :Attachment
+2015-11-04 18:43:39,983 [10] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.FileName =b.FileName   and  a.AttachmentTypeCT =b.AttachmentTypeCT   table :Attachment
+2015-11-04 18:43:40,030 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:43:52,530 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:43:52,546 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:43:52,561 [10] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.Description =b.Description   table :Classification
+2015-11-04 18:43:52,577 [10] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.Description =b.Description   table :Classification
+2015-11-04 18:43:52,577 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:43:52,639 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:43:52,639 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:43:52,655 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:43:52,843 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:43:53,186 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:43:53,296 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:43:53,311 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:43:53,389 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:43:53,405 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:43:53,452 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:43:53,671 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:43:53,686 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:43:53,686 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:43:53,702 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:43:53,733 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:43:53,952 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:43:54,030 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:43:56,530 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:43:58,303 [10] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.IsTrueGeneric =b.IsTrueGeneric   and  a.IsHomonym =b.IsHomonym   and  a.IsSynonym =b.IsSynonym   and  a.Name =b.Name   table :Molecule
+2015-11-04 18:43:58,646 [10] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.IsTrueGeneric =b.IsTrueGeneric   and  a.IsHomonym =b.IsHomonym   and  a.IsSynonym =b.IsSynonym   and  a.Name =b.Name   table :Molecule
+2015-11-04 18:43:58,646 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:43:58,662 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:43:58,678 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:43:58,803 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:44:07,918 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:44:08,863 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:44:08,879 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:44:08,894 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:44:08,988 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:44:10,175 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:44:10,191 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:44:10,238 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:44:11,238 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:44:11,504 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:44:12,265 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:44:18,464 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:44:18,496 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:44:18,543 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:44:18,543 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:44:18,621 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:44:19,356 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:44:19,466 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:44:19,544 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:44:19,645 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:44:19,754 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:44:19,801 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:44:19,895 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:44:19,910 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:44:19,942 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:44:21,379 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:44:21,395 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:44:21,411 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:44:21,614 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:44:22,051 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:44:22,082 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:46:52,953 [10] INFO  DBcomparer.Program [(null)] - ----DB comparer Job Start---
+2015-11-04 18:46:53,203 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:46:53,596 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:46:53,674 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:46:54,065 [10] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.CompanyId =b.CompanyId   and  a.IsMain =b.IsMain   table :Address
+2015-11-04 18:46:54,065 [10] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.CompanyId =b.CompanyId   and  a.IsMain =b.IsMain   table :Address
+2015-11-04 18:46:54,127 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:46:56,197 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:46:56,260 [10] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.Description =b.Description   table :Atc
+2015-11-04 18:46:56,307 [10] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.Description =b.Description   table :Atc
+2015-11-04 18:46:56,322 [10] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.FileName =b.FileName   and  a.AttachmentTypeCT =b.AttachmentTypeCT   table :Attachment
+2015-11-04 18:46:56,322 [10] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.FileName =b.FileName   and  a.AttachmentTypeCT =b.AttachmentTypeCT   table :Attachment
+2015-11-04 18:46:56,369 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:09,334 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:09,334 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:09,365 [10] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.Description =b.Description   table :Classification
+2015-11-04 18:47:09,365 [10] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.Description =b.Description   table :Classification
+2015-11-04 18:47:09,381 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:09,428 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:09,428 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:09,443 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:09,584 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:09,912 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:10,021 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:10,037 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:10,084 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:10,099 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:10,146 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:10,365 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:10,365 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:10,381 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:10,396 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:10,412 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:10,615 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:10,709 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:13,280 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:15,059 [10] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.IsTrueGeneric =b.IsTrueGeneric   and  a.IsHomonym =b.IsHomonym   and  a.IsSynonym =b.IsSynonym   and  a.Name =b.Name   table :Molecule
+2015-11-04 18:47:15,402 [10] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.IsTrueGeneric =b.IsTrueGeneric   and  a.IsHomonym =b.IsHomonym   and  a.IsSynonym =b.IsSynonym   and  a.Name =b.Name   table :Molecule
+2015-11-04 18:47:15,402 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:15,402 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:15,418 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:15,543 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:24,036 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:24,858 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:24,858 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:24,873 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:24,936 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:25,983 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:25,983 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:26,029 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:26,936 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:27,248 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:28,256 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:34,248 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:34,279 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:34,326 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:34,342 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:34,404 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:35,107 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:35,201 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:35,279 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:35,373 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:35,482 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:35,529 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:35,592 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:35,623 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:35,639 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:37,395 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:37,411 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:37,427 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:37,630 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:38,067 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 18:47:38,098 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:51:22,781 [10] INFO  DBcomparer.Program [(null)] - ----DB comparer Job Start---
+2015-11-04 19:51:23,047 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:51:23,516 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:51:23,641 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:51:24,234 [10] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.CompanyId =b.CompanyId   and  a.IsMain =b.IsMain   table :Address
+2015-11-04 19:51:24,234 [10] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.CompanyId =b.CompanyId   and  a.IsMain =b.IsMain   table :Address
+2015-11-04 19:51:24,266 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:51:27,735 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:51:28,922 [10] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.Description =b.Description   table :Atc
+2015-11-04 19:51:28,985 [10] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.Description =b.Description   table :Atc
+2015-11-04 19:51:29,000 [10] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.FileName =b.FileName   and  a.AttachmentTypeCT =b.AttachmentTypeCT   table :Attachment
+2015-11-04 19:51:29,016 [10] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.FileName =b.FileName   and  a.AttachmentTypeCT =b.AttachmentTypeCT   table :Attachment
+2015-11-04 19:51:29,078 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:51:41,587 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:51:41,603 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:51:41,634 [10] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.Description =b.Description   table :Classification
+2015-11-04 19:51:41,634 [10] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.Description =b.Description   table :Classification
+2015-11-04 19:51:41,634 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:51:41,712 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:51:41,728 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:51:41,744 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:51:41,916 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:51:42,291 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:51:42,416 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:51:42,431 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:51:42,509 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:51:42,541 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:51:42,587 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:51:42,844 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:51:42,860 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:51:42,876 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:51:42,891 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:51:42,923 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:51:43,141 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:51:43,251 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:51:45,813 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:51:49,188 [10] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.IsTrueGeneric =b.IsTrueGeneric   and  a.IsHomonym =b.IsHomonym   and  a.IsSynonym =b.IsSynonym   and  a.Name =b.Name   table :Molecule
+2015-11-04 19:51:49,532 [10] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.IsTrueGeneric =b.IsTrueGeneric   and  a.IsHomonym =b.IsHomonym   and  a.IsSynonym =b.IsSynonym   and  a.Name =b.Name   table :Molecule
+2015-11-04 19:51:49,532 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:51:49,563 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:51:49,610 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:51:49,767 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:51:58,642 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:51:59,579 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:52:00,907 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:52:00,954 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:52:01,032 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:52:06,281 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:52:06,312 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:52:07,613 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:52:08,613 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:52:08,957 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:52:09,894 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:52:15,980 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:52:32,131 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:52:36,865 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:52:36,881 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:52:36,959 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:52:38,091 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:53:02,943 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:53:12,395 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:53:12,489 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:53:26,151 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:53:33,426 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:53:33,567 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:53:33,582 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:53:33,613 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:53:35,379 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:53:35,410 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:53:35,442 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:53:35,629 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:53:36,207 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:53:36,317 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 19:53:37,785 [10] INFO  DBcomparer.Program [(null)] - ----DB comparer Job End---
+2015-11-04 20:31:08,899 [7] INFO  DBcomparer.Program [(null)] - ----DB comparer Job Start---
+2015-11-04 20:31:09,243 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:31:09,868 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:31:10,024 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:31:10,680 [7] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.CompanyId =b.CompanyId   and  a.IsMain =b.IsMain   table :Address
+2015-11-04 20:31:10,696 [7] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.CompanyId =b.CompanyId   and  a.IsMain =b.IsMain   table :Address
+2015-11-04 20:31:10,868 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:31:19,587 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:31:21,118 [7] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.Description =b.Description   table :Atc
+2015-11-04 20:31:21,180 [7] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.Description =b.Description   table :Atc
+2015-11-04 20:31:21,274 [7] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.FileName =b.FileName   and  a.AttachmentTypeCT =b.AttachmentTypeCT   table :Attachment
+2015-11-04 20:31:21,290 [7] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.FileName =b.FileName   and  a.AttachmentTypeCT =b.AttachmentTypeCT   table :Attachment
+2015-11-04 20:31:21,399 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:31:34,946 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:31:35,009 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:31:35,134 [7] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.Description =b.Description   table :Classification
+2015-11-04 20:31:35,149 [7] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.Description =b.Description   table :Classification
+2015-11-04 20:31:35,165 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:31:35,282 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:31:35,320 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:31:35,367 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:31:35,679 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:31:36,195 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:31:36,383 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:31:36,414 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:31:36,586 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:31:36,726 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:31:36,961 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:31:37,351 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:31:37,414 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:31:37,445 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:31:37,508 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:31:37,586 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:31:37,914 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:31:38,164 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:31:41,039 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:31:44,226 [7] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.IsTrueGeneric =b.IsTrueGeneric   and  a.IsHomonym =b.IsHomonym   and  a.IsSynonym =b.IsSynonym   and  a.Name =b.Name   table :Molecule
+2015-11-04 20:31:44,570 [7] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.IsTrueGeneric =b.IsTrueGeneric   and  a.IsHomonym =b.IsHomonym   and  a.IsSynonym =b.IsSynonym   and  a.Name =b.Name   table :Molecule
+2015-11-04 20:31:44,601 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:31:44,680 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:31:44,773 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:31:45,023 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:31:58,586 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:31:59,664 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:32:01,742 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:32:01,805 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:32:01,977 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:32:07,851 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:32:07,867 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:32:09,507 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:32:10,648 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:32:11,117 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:32:12,367 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:32:18,945 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:32:33,898 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:32:40,521 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:32:40,568 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:32:40,942 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:32:42,943 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:33:03,208 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:33:12,672 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:33:12,891 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:33:25,594 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:33:33,860 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:33:34,141 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:33:34,219 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:33:34,376 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:33:39,235 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:33:39,360 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:33:39,391 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:33:39,782 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:33:40,532 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:33:40,860 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:33:43,072 [7] INFO  DBcomparer.Program [(null)] - ----DB comparer Job End---
+2015-11-04 20:35:20,708 [7] INFO  DBcomparer.Program [(null)] - ----DB comparer Job Start---
+2015-11-04 20:35:21,130 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:35:21,817 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:35:21,973 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:35:22,364 [7] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.CompanyId =b.CompanyId   and  a.IsMain =b.IsMain   table :Address
+2015-11-04 20:35:22,380 [7] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.CompanyId =b.CompanyId   and  a.IsMain =b.IsMain   table :Address
+2015-11-04 20:35:22,426 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:35:26,052 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:35:27,130 [7] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.Description =b.Description   table :Atc
+2015-11-04 20:35:27,208 [7] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.Description =b.Description   table :Atc
+2015-11-04 20:35:27,255 [7] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.FileName =b.FileName   and  a.AttachmentTypeCT =b.AttachmentTypeCT   table :Attachment
+2015-11-04 20:35:27,286 [7] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.FileName =b.FileName   and  a.AttachmentTypeCT =b.AttachmentTypeCT   table :Attachment
+2015-11-04 20:35:27,567 [7] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.Name =b.Name   table :Brand
+2015-11-04 20:35:27,661 [7] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.Name =b.Name   table :Brand
+2015-11-04 20:35:27,661 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:35:27,692 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:35:27,817 [7] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.Description =b.Description   table :Classification
+2015-11-04 20:35:27,817 [7] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.Description =b.Description   table :Classification
+2015-11-04 20:35:27,848 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:35:28,036 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:35:28,083 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:35:28,161 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:35:28,817 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:35:29,333 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:35:29,442 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:35:29,489 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:35:29,739 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:35:29,895 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:35:30,130 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:35:30,520 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:35:30,567 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:35:30,614 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:35:30,661 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:35:30,755 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:35:31,020 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:35:31,208 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:35:33,880 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:35:35,989 [7] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.IsTrueGeneric =b.IsTrueGeneric   and  a.IsHomonym =b.IsHomonym   and  a.IsSynonym =b.IsSynonym   and  a.Name =b.Name   table :Molecule
+2015-11-04 20:35:36,333 [7] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.IsTrueGeneric =b.IsTrueGeneric   and  a.IsHomonym =b.IsHomonym   and  a.IsSynonym =b.IsSynonym   and  a.Name =b.Name   table :Molecule
+2015-11-04 20:35:36,333 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:35:36,364 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:35:36,411 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:35:36,942 [7] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.MonographTypeCT =b.MonographTypeCT   and  a.Name =b.Name   table :Monograph
+2015-11-04 20:35:37,130 [7] INFO  DBComparer.Application [(null)] - Duplicate records for PrimaryKey: a.MonographTypeCT =b.MonographTypeCT   and  a.Name =b.Name   table :Monograph
+2015-11-04 20:35:37,208 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:35:38,817 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:35:40,036 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:35:40,083 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:35:40,224 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:35:41,552 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:35:41,567 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:35:44,271 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:35:47,273 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:35:47,694 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:35:48,804 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:36:00,538 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:36:18,568 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:36:21,489 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:36:21,536 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:36:21,661 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:36:22,942 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:36:30,593 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:36:43,476 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:36:43,632 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:37:02,281 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:37:12,859 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:37:13,094 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:37:13,141 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:37:13,203 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:37:14,109 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:37:14,125 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:37:14,172 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:37:14,641 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:37:15,609 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:37:15,750 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-11-04 20:37:17,672 [7] INFO  DBcomparer.Program [(null)] - ----DB comparer Job End---

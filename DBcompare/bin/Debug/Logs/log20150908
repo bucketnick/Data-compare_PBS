@@ -1,0 +1,542 @@
+2015-09-08 15:47:04,106 [7] INFO  DBcomparer.Program [(null)] - ----DB comparer Job Start---
+2015-09-08 15:47:04,403 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:47:04,403 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:47:04,840 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:47:04,840 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:47:04,997 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:47:04,997 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:47:06,097 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:47:06,097 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:47:06,800 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:47:06,800 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:47:09,878 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:47:09,878 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:47:10,112 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:47:10,112 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:47:10,784 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:47:10,784 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:48:46,862 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:48:46,893 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:04,144 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:04,144 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:04,253 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:04,253 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:04,425 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:04,425 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:04,800 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:04,800 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:04,987 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:04,987 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:05,065 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:05,065 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:05,191 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:05,191 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:06,222 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:06,222 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:06,925 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:06,925 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:07,206 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:07,206 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:07,284 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:07,284 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:07,753 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:07,753 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:07,909 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:07,909 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:08,206 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:08,206 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:09,019 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:09,019 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:09,128 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:09,128 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:09,206 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:09,206 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:09,378 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:09,378 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:09,581 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:09,581 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:10,066 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:10,066 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:10,456 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:10,456 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:12,066 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:12,066 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:18,524 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:18,524 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:23,540 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:23,540 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:23,602 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:23,602 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:23,727 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:23,727 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:26,180 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:26,196 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:38,465 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:38,465 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:40,543 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:40,543 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:40,653 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:40,653 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:40,903 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:40,903 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:41,356 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:41,356 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:43,543 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:43,543 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:43,668 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:43,668 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:44,231 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:44,231 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:46,465 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:46,465 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:46,653 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:46,653 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:47,731 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:47,731 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:49,573 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:49,573 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:49,823 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:49,823 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:50,058 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:50,058 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:50,151 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:50,167 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:50,901 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:50,901 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:52,479 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:52,479 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:52,839 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:52,854 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:53,183 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:53,183 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:53,542 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:53,542 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:53,886 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:53,886 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:54,058 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:54,058 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:54,245 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:54,245 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:54,464 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:54,464 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:54,604 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:54,604 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:59,089 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:59,089 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:59,214 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:59,214 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:59,386 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:59,401 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:59,526 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:49:59,542 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:49:59,714 [7] INFO  DBcomparer.Program [(null)] - ----DB comparer Job End---
+2015-09-08 15:55:00,575 [10] INFO  DBcomparer.Program [(null)] - ----DB comparer Job Start---
+2015-09-08 15:55:00,731 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:55:00,731 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:55:01,965 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:55:01,965 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:55:02,295 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:55:02,295 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:55:03,139 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:55:03,139 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:55:03,342 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:55:03,342 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:55:06,107 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:55:06,107 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:55:06,420 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:55:06,435 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:55:07,639 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:55:07,639 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:56:46,766 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:56:46,766 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:06,060 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:06,060 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:06,091 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:06,091 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:06,138 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:06,138 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:06,279 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:06,279 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:06,372 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:06,372 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:06,404 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:06,404 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:06,435 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:06,435 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:06,732 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:06,732 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:07,263 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:07,263 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:07,404 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:07,419 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:07,435 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:07,435 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:07,560 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:07,560 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:07,591 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:07,591 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:07,685 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:07,685 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:08,075 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:08,075 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:08,107 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:08,107 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:08,122 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:08,122 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:08,169 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:08,169 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:08,310 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:08,310 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:08,591 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:08,591 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:08,732 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:08,732 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:10,075 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:10,075 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:15,297 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:15,297 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:19,469 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:19,469 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:19,485 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:19,485 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:19,531 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:19,531 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:19,594 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:19,594 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:29,829 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:29,829 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:31,064 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:31,064 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:31,079 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:31,079 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:31,142 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:31,157 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:31,251 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:31,251 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:33,064 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:33,064 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:33,110 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:33,126 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:33,251 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:33,251 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:34,501 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:34,501 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:34,657 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:34,657 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:35,142 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:35,142 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:36,204 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:36,204 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:36,345 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:36,345 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:36,454 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:36,454 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:36,485 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:36,485 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:36,610 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:36,610 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:38,314 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:38,314 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:38,548 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:38,548 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:38,876 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:38,876 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:39,111 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:39,111 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:39,345 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:39,345 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:39,470 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:39,470 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:39,595 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:39,595 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:39,673 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:39,673 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:39,704 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:39,704 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:44,236 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:44,236 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:44,267 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:44,267 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:44,329 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:44,329 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:44,423 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:44,423 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:44,876 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:44,876 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:45,079 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 15:57:45,079 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 15:57:45,126 [10] INFO  DBcomparer.Program [(null)] - ----DB comparer Job End---
+2015-09-08 16:02:43,538 [7] INFO  DBcomparer.Program [(null)] - ----DB comparer Job Start---
+2015-09-08 16:05:25,146 [7] INFO  DBcomparer.Program [(null)] - ----DB comparer Job Start---
+2015-09-08 16:06:42,300 [8] INFO  DBcomparer.Program [(null)] - ----DB comparer Job Start---
+2015-09-08 16:06:42,488 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:06:42,488 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:06:42,832 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:06:42,832 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:06:42,988 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:06:42,988 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:06:43,379 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:06:43,379 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:06:43,931 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:06:43,933 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:06:44,351 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:06:44,351 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:06:44,663 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:06:44,663 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:06:45,445 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:06:45,445 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:25,860 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:25,860 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:27,595 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:27,595 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:27,704 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:27,704 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:27,876 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:27,876 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:28,204 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:28,204 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:28,423 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:28,423 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:28,501 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:28,516 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:28,610 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:28,610 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:29,360 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:29,360 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:29,766 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:29,766 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:29,938 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:29,938 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:30,016 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:30,016 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:30,470 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:30,470 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:30,626 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:30,642 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:30,923 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:30,923 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:31,773 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:31,773 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:31,883 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:31,883 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:31,977 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:31,977 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:32,133 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:32,133 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:32,289 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:32,289 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:32,570 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:32,570 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:32,867 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:32,867 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:33,680 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:33,680 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:34,008 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:34,008 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:36,195 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:36,195 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:36,274 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:36,274 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:36,383 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:36,383 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:37,586 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:37,586 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:45,274 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:45,274 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:47,540 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:47,540 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:47,633 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:47,649 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:47,899 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:47,899 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:48,274 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:48,274 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:49,274 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:49,274 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:49,462 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:49,462 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:50,258 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:50,274 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:52,106 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:52,106 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:52,293 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:52,293 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:53,012 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:53,012 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:54,215 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:54,215 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:54,418 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:54,434 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:54,699 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:54,699 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:54,809 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:54,809 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:55,325 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:55,325 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:56,496 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:56,496 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:56,715 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:56,715 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:57,257 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:57,257 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:57,569 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:57,569 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:57,882 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:57,882 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:58,069 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:58,069 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:58,226 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:58,226 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:58,398 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:58,398 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:58,523 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:58,538 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:58,804 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:58,804 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:58,898 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:58,898 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:59,085 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:59,085 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:59,210 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:59,210 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:59,554 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:59,554 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:59,710 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:07:59,726 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:07:59,882 [8] INFO  DBcomparer.Program [(null)] - ----DB comparer Job End---
+2015-09-08 16:13:25,057 [7] INFO  DBcomparer.Program [(null)] - ----DB comparer Job Start---
+2015-09-08 16:13:25,213 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:13:25,213 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:13:25,792 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:13:25,792 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:13:25,948 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:13:25,948 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:13:26,542 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:13:26,542 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:13:27,338 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:13:27,338 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:13:29,245 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:13:29,245 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:13:29,588 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:13:29,588 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:13:30,338 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:13:30,338 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:16:50,716 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:16:50,716 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:17:17,445 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:17:17,445 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:17:17,554 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:17:17,554 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:17:17,726 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:17:17,726 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:17:18,164 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:17:18,164 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:17:18,382 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:17:18,382 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:17:18,445 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:17:18,445 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:17:18,617 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:17:18,617 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:17:20,070 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:17:20,070 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:17:20,789 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:17:20,789 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:17:21,008 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:17:21,008 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:17:21,086 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:17:21,101 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:17:21,633 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:17:21,633 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:17:21,773 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:17:21,773 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:17:22,039 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:17:22,039 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:17:22,898 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:17:22,898 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:17:23,008 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:17:23,023 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:17:23,086 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:17:23,086 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:17:23,273 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:17:23,273 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:17:23,523 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:17:23,523 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:17:24,039 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:17:24,039 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:17:24,508 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:17:24,508 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:17:26,258 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:17:26,258 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:17:29,821 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:17:29,821 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:17:34,821 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:17:34,821 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:17:34,915 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:17:34,915 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:17:35,040 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:17:35,040 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:17:36,711 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:17:36,711 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:18:01,794 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:18:01,794 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:18:05,337 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:18:05,337 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:18:05,446 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:18:05,446 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:18:06,009 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:18:06,009 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:18:06,697 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:18:06,697 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:18:09,337 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:18:09,337 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:18:09,603 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:18:09,618 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:18:10,931 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:18:10,931 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:18:17,197 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:18:17,197 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:18:17,603 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:18:17,603 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:18:19,462 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:18:19,462 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:18:24,295 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:18:24,295 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:18:24,779 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:18:24,779 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:18:25,014 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:18:25,014 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:18:25,123 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:18:25,123 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:18:25,764 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:18:25,764 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:18:27,248 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:18:27,248 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:18:27,592 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:18:27,592 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:18:28,108 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:18:28,108 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:18:28,592 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:18:28,592 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:18:29,014 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:18:29,014 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:18:29,233 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:18:29,233 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:18:29,483 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:18:29,483 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:18:29,686 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:18:29,701 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:18:29,889 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:18:29,889 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:18:32,389 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:18:32,404 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:18:32,514 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:18:32,514 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:18:32,701 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:18:32,701 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:18:32,873 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:18:32,873 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:18:33,420 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:18:33,420 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:18:33,717 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2015-09-08 16:18:33,717 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info on matched Records
+2015-09-08 16:18:33,873 [7] INFO  DBcomparer.Program [(null)] - ----DB comparer Job End---

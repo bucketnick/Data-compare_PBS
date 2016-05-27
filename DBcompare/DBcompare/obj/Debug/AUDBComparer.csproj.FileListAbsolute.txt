@@ -1,0 +1,30 @@
+C:\Users\liu.cao\Desktop\RefreshCoyView\bin\Debug\DBComparer.exe.config
+C:\Users\liu.cao\Desktop\RefreshCoyView\bin\Debug\DBComparer.exe
+C:\Users\liu.cao\Desktop\RefreshCoyView\bin\Debug\DBComparer.pdb
+C:\Users\liu.cao\Desktop\RefreshCoyView\bin\Debug\Common.Logging.dll
+C:\Users\liu.cao\Desktop\RefreshCoyView\bin\Debug\Common.Logging.Log4Net.dll
+C:\Users\liu.cao\Desktop\RefreshCoyView\bin\Debug\log4net.dll
+C:\Users\liu.cao\Desktop\RefreshCoyView\obj\Debug\AUDBComparer.csprojResolveAssemblyReference.cache
+C:\Users\liu.cao\Desktop\RefreshCoyView\obj\Debug\DBComparer.exe
+C:\Users\liu.cao\Desktop\RefreshCoyView\obj\Debug\DBComparer.pdb
+C:\Users\liu.cao\Desktop\DBcompare\bin\Debug\DBComparer.exe.config
+C:\Users\liu.cao\Desktop\DBcompare\obj\Debug\DBComparer.exe
+C:\Users\liu.cao\Desktop\DBcompare\obj\Debug\DBComparer.pdb
+C:\Users\liu.cao\Desktop\DBcompare\bin\Debug\DBComparer.exe
+C:\Users\liu.cao\Desktop\DBcompare\bin\Debug\DBComparer.pdb
+C:\Users\liu.cao\Desktop\DBcompare\bin\Debug\Common.Logging.dll
+C:\Users\liu.cao\Desktop\DBcompare\bin\Debug\Common.Logging.Log4Net.dll
+C:\Users\liu.cao\Desktop\DBcompare\bin\Debug\log4net.dll
+C:\Users\liu.cao\Desktop\DBcompare\obj\Debug\AUDBComparer.csprojResolveAssemblyReference.cache
+D:\MIMS -Liu Cao\DBcompare\bin\Debug\DBComparer.exe.config
+D:\MIMS -Liu Cao\DBcompare\obj\Debug\DBComparer.exe
+D:\MIMS -Liu Cao\DBcompare\obj\Debug\DBComparer.pdb
+D:\MIMS -Liu Cao\DBcompare\bin\Debug\DBComparer.exe
+D:\MIMS -Liu Cao\DBcompare\bin\Debug\DBComparer.pdb
+D:\MIMS -Liu Cao\DBcompare\bin\Debug\Common.Logging.dll
+D:\MIMS -Liu Cao\DBcompare\bin\Debug\Common.Logging.Log4Net.dll
+D:\MIMS -Liu Cao\DBcompare\bin\Debug\log4net.dll
+D:\MIMS -Liu Cao\DBcompare\obj\Debug\AUDBComparer.csprojResolveAssemblyReference.cache
+D:\MIMS -Liu Cao\DBcompare\DBcompare\bin\Debug\DBComparer.exe.config
+D:\MIMS -Liu Cao\DBcompare\DBcompare\obj\Debug\DBComparer.exe
+D:\MIMS -Liu Cao\DBcompare\DBcompare\obj\Debug\DBComparer.pdb

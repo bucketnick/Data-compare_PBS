@@ -1,0 +1,17 @@
+2016-05-25 16:51:14,635 [7] INFO  DBcomparer.Program [(null)] - ----DB comparer Job Start---
+2016-05-25 16:51:14,909 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2016-05-25 16:51:14,984 [7] INFO  DBComparer.Application [(null)] - Invalid object name 'CountryTemplate_filter_Original.dbo.q_Active_Composition'.
+2016-05-25 16:51:14,984 [7] INFO  DBcomparer.Program [(null)] - ----DB comparer Job End---
+2016-05-25 16:52:42,505 [7] INFO  DBcomparer.Program [(null)] - ----DB comparer Job Start---
+2016-05-25 16:52:42,658 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2016-05-25 16:54:30,948 [7] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2016-05-25 17:03:26,360 [7] INFO  DBComparer.Application [(null)] - Could not allocate space for object 'dbo.CompareResult_CountryTemplate__2016_052552' in database 'InterimDB_CompareMapping' because the 'PRIMARY' filegroup is full. Create disk space by deleting unneeded files, dropping objects in the filegroup, adding additional files to the filegroup, or setting autogrowth on for existing files in the filegroup.
+2016-05-25 17:03:26,360 [7] INFO  DBcomparer.Program [(null)] - ----DB comparer Job End---
+2016-05-25 17:07:18,040 [9] INFO  DBcomparer.Program [(null)] - ----DB comparer Job Start---
+2016-05-25 17:07:18,210 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2016-05-25 17:09:05,956 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2016-05-25 17:17:20,496 [9] INFO  DBComparer.Application [(null)] - Could not allocate space for object 'dbo.CompareResult_CountryTemplate__2016_05257' in database 'InterimDB_CompareMapping' because the 'PRIMARY' filegroup is full. Create disk space by deleting unneeded files, dropping objects in the filegroup, adding additional files to the filegroup, or setting autogrowth on for existing files in the filegroup.
+2016-05-25 17:17:20,496 [9] INFO  DBcomparer.Program [(null)] - ----DB comparer Job End---
+2016-05-25 17:23:36,448 [10] INFO  DBcomparer.Program [(null)] - ----DB comparer Job Start---
+2016-05-25 17:23:36,649 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2016-05-25 17:25:22,676 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info

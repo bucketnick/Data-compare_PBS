@@ -1,0 +1,78 @@
+C:\Users\liu.cao\Desktop\RefreshCoyView\bin\Debug\DBComparer.exe.config
+C:\Users\liu.cao\Desktop\RefreshCoyView\bin\Debug\DBComparer.exe
+C:\Users\liu.cao\Desktop\RefreshCoyView\bin\Debug\DBComparer.pdb
+C:\Users\liu.cao\Desktop\RefreshCoyView\bin\Debug\Common.Logging.dll
+C:\Users\liu.cao\Desktop\RefreshCoyView\bin\Debug\Common.Logging.Log4Net.dll
+C:\Users\liu.cao\Desktop\RefreshCoyView\bin\Debug\log4net.dll
+C:\Users\liu.cao\Desktop\RefreshCoyView\obj\Debug\AUDBComparer.csprojResolveAssemblyReference.cache
+C:\Users\liu.cao\Desktop\RefreshCoyView\obj\Debug\DBComparer.exe
+C:\Users\liu.cao\Desktop\RefreshCoyView\obj\Debug\DBComparer.pdb
+C:\Users\liu.cao\Desktop\DBcompare\bin\Debug\DBComparer.exe.config
+C:\Users\liu.cao\Desktop\DBcompare\obj\Debug\DBComparer.exe
+C:\Users\liu.cao\Desktop\DBcompare\obj\Debug\DBComparer.pdb
+C:\Users\liu.cao\Desktop\DBcompare\bin\Debug\DBComparer.exe
+C:\Users\liu.cao\Desktop\DBcompare\bin\Debug\DBComparer.pdb
+C:\Users\liu.cao\Desktop\DBcompare\bin\Debug\Common.Logging.dll
+C:\Users\liu.cao\Desktop\DBcompare\bin\Debug\Common.Logging.Log4Net.dll
+C:\Users\liu.cao\Desktop\DBcompare\bin\Debug\log4net.dll
+C:\Users\liu.cao\Desktop\DBcompare\obj\Debug\AUDBComparer.csprojResolveAssemblyReference.cache
+D:\MIMS -Liu Cao\DBcompare\bin\Debug\DBComparer.exe.config
+D:\MIMS -Liu Cao\DBcompare\obj\Debug\DBComparer.exe
+D:\MIMS -Liu Cao\DBcompare\obj\Debug\DBComparer.pdb
+D:\MIMS -Liu Cao\DBcompare\bin\Debug\DBComparer.exe
+D:\MIMS -Liu Cao\DBcompare\bin\Debug\DBComparer.pdb
+D:\MIMS -Liu Cao\DBcompare\bin\Debug\Common.Logging.dll
+D:\MIMS -Liu Cao\DBcompare\bin\Debug\Common.Logging.Log4Net.dll
+D:\MIMS -Liu Cao\DBcompare\bin\Debug\log4net.dll
+D:\MIMS -Liu Cao\DBcompare\bin\Debug\HtmlAgilityPack.dll
+D:\MIMS -Liu Cao\DBcompare\bin\Debug\HtmlAgilityPack.pdb
+D:\MIMS -Liu Cao\DBcompare\bin\Debug\HtmlAgilityPack.xml
+D:\MIMS -Liu Cao\DBcompare\obj\Debug\AUDBComparer.csprojResolveAssemblyReference.cache
+D:\Data compare\DBcompare\bin\Debug\DBComparer.exe.config
+D:\Data compare\DBcompare\obj\Debug\DBComparer.exe
+D:\Data compare\DBcompare\obj\Debug\DBComparer.pdb
+D:\Data compare\DBcompare\bin\Debug\DBComparer.exe
+D:\Data compare\DBcompare\bin\Debug\DBComparer.pdb
+D:\Data compare\DBcompare\bin\Debug\Common.Logging.dll
+D:\Data compare\DBcompare\bin\Debug\Common.Logging.Log4Net.dll
+D:\Data compare\DBcompare\bin\Debug\HtmlAgilityPack.dll
+D:\Data compare\DBcompare\bin\Debug\log4net.dll
+D:\Data compare\DBcompare\bin\Debug\HtmlAgilityPack.pdb
+D:\Data compare\DBcompare\bin\Debug\HtmlAgilityPack.xml
+D:\Data compare\DBcompare\obj\Debug\AUDBComparer.csprojResolveAssemblyReference.cache
+D:\DB comapre\Data compare\DBcompare\bin\Debug\DBComparer.exe.config
+D:\DB comapre\Data compare\DBcompare\obj\Debug\DBComparer.exe
+D:\DB comapre\Data compare\DBcompare\obj\Debug\DBComparer.pdb
+D:\DB comapre\Data compare\DBcompare\bin\Debug\DBComparer.exe
+D:\DB comapre\Data compare\DBcompare\bin\Debug\DBComparer.pdb
+D:\DB comapre\Data compare\DBcompare\bin\Debug\Common.Logging.dll
+D:\DB comapre\Data compare\DBcompare\bin\Debug\Common.Logging.Log4Net.dll
+D:\DB comapre\Data compare\DBcompare\bin\Debug\HtmlAgilityPack.dll
+D:\DB comapre\Data compare\DBcompare\bin\Debug\log4net.dll
+D:\DB comapre\Data compare\DBcompare\bin\Debug\HtmlAgilityPack.pdb
+D:\DB comapre\Data compare\DBcompare\bin\Debug\HtmlAgilityPack.xml
+D:\DB comapre\Data compare\DBcompare\obj\Debug\AUDBComparer.csprojResolveAssemblyReference.cache
+D:\DB comapre_ForPBS\Data compare_PBS\DBcompare\bin\Debug\DBComparer.exe.config
+D:\DB comapre_ForPBS\Data compare_PBS\DBcompare\obj\Debug\DBComparer.exe
+D:\DB comapre_ForPBS\Data compare_PBS\DBcompare\obj\Debug\DBComparer.pdb
+D:\DB comapre_ForPBS\Data compare_PBS\DBcompare\bin\Debug\DBComparer.exe
+D:\DB comapre_ForPBS\Data compare_PBS\DBcompare\bin\Debug\DBComparer.pdb
+D:\DB comapre_ForPBS\Data compare_PBS\DBcompare\bin\Debug\Common.Logging.dll
+D:\DB comapre_ForPBS\Data compare_PBS\DBcompare\bin\Debug\Common.Logging.Log4Net.dll
+D:\DB comapre_ForPBS\Data compare_PBS\DBcompare\bin\Debug\HtmlAgilityPack.dll
+D:\DB comapre_ForPBS\Data compare_PBS\DBcompare\bin\Debug\log4net.dll
+D:\DB comapre_ForPBS\Data compare_PBS\DBcompare\bin\Debug\HtmlAgilityPack.pdb
+D:\DB comapre_ForPBS\Data compare_PBS\DBcompare\bin\Debug\HtmlAgilityPack.xml
+D:\DB comapre_ForPBS\Data compare_PBS\DBcompare\obj\Debug\AUDBComparer.csprojResolveAssemblyReference.cache
+D:\MyCode\2016\Data compare_PBS\DBcompare\bin\Debug\DBComparer.exe.config
+D:\MyCode\2016\Data compare_PBS\DBcompare\obj\Debug\DBComparer.exe
+D:\MyCode\2016\Data compare_PBS\DBcompare\obj\Debug\DBComparer.pdb
+D:\MyCode\2016\Data compare_PBS\DBcompare\bin\Debug\DBComparer.exe
+D:\MyCode\2016\Data compare_PBS\DBcompare\bin\Debug\DBComparer.pdb
+D:\MyCode\2016\Data compare_PBS\DBcompare\bin\Debug\Common.Logging.dll
+D:\MyCode\2016\Data compare_PBS\DBcompare\bin\Debug\Common.Logging.Log4Net.dll
+D:\MyCode\2016\Data compare_PBS\DBcompare\bin\Debug\HtmlAgilityPack.dll
+D:\MyCode\2016\Data compare_PBS\DBcompare\bin\Debug\log4net.dll
+D:\MyCode\2016\Data compare_PBS\DBcompare\bin\Debug\HtmlAgilityPack.pdb
+D:\MyCode\2016\Data compare_PBS\DBcompare\bin\Debug\HtmlAgilityPack.xml
+D:\MyCode\2016\Data compare_PBS\DBcompare\obj\Debug\AUDBComparer.csprojResolveAssemblyReference.cache

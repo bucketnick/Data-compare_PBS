@@ -1,0 +1,9 @@
+2016-03-03 15:40:14,603 [9] INFO  DBcomparer.Program [(null)] - ----DB comparer Job Start---
+2016-03-03 15:40:14,796 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2016-03-03 15:40:14,825 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2016-03-03 15:40:14,865 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2016-03-03 15:40:17,461 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2016-03-03 15:40:20,362 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2016-03-03 15:40:48,707 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2016-03-03 15:41:27,952 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2016-03-03 15:41:37,688 [9] INFO  DBcomparer.Program [(null)] - ----DB comparer Job End---

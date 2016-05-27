@@ -1,0 +1,16 @@
+2016-05-27 11:55:35,312 [10] INFO  DBcomparer.Program [(null)] - ----DB comparer Job Start---
+2016-05-27 11:55:35,917 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2016-05-27 11:55:36,823 [10] INFO  DBComparer.Application [(null)] - Column 'Concept' does not belong to table .
+2016-05-27 11:55:36,823 [10] INFO  DBcomparer.Program [(null)] - ----DB comparer Job End---
+2016-05-27 11:58:37,749 [10] INFO  DBcomparer.Program [(null)] - ----DB comparer Job Start---
+2016-05-27 11:58:45,763 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2016-05-27 11:59:40,624 [9] INFO  DBcomparer.Program [(null)] - ----DB comparer Job Start---
+2016-05-27 11:59:43,607 [9] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2016-05-27 12:03:03,024 [10] INFO  DBcomparer.Program [(null)] - ----DB comparer Job Start---
+2016-05-27 12:03:05,514 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2016-05-27 12:04:55,573 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2016-05-27 12:06:22,359 [8] INFO  DBcomparer.Program [(null)] - ----DB comparer Job Start---
+2016-05-27 12:06:23,418 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2016-05-27 12:07:57,634 [8] INFO  DBComparer.Application [(null)] - Log Table Level Info
+2016-05-27 14:18:43,583 [10] INFO  DBcomparer.Program [(null)] - ----DB comparer Job Start---
+2016-05-27 14:18:53,048 [10] INFO  DBComparer.Application [(null)] - Log Table Level Info
